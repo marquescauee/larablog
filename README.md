@@ -1,4 +1,4 @@
-# Site de Blogs (Aprendizado em Laravel
+# Site de Blogs (Aprendizado em Laravel)
 - Autenticação
 - Operações CRUD
 - Página inicial
